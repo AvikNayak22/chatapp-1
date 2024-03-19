@@ -1,16 +1,16 @@
 # chatapp-1
 This is a simple chat application built with React and Appwrite, allowing users to communicate in real-time.
 
-# Features
+## Features
 - __User Authentication:__ Users can register, log in, and log out securely.
 - __Real-time Messaging:__ Chat with other users in real-time.
 - __Responsive Design:__ The application is designed to work seamlessly on various screen sizes.
 - __Secure Communication:__ All communications are encrypted to ensure security and privacy.
-# Technologies Used
+## Technologies Used
 - __React:__ A JavaScript library for building user interfaces.
 - __Appwrite:__ A secure backend as a service platform providing various services like user authentication and database management.
 - __React Router:__ For handling client-side routing within the application.
-# Setup Instructions
+## Setup Instructions
 1. Clone the repository:
    ```
     git clone https://github.com/your-username/chatapp-1.git
